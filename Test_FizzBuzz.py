@@ -8,3 +8,5 @@ def affiche():
         if not output:
             output = i
         print(output)
+
+affiche()
